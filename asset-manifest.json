@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cynthialan/static/css/main.5ba0c07d.chunk.css",
+    "main.js": "/cynthialan/static/js/main.ae620040.chunk.js",
+    "main.js.map": "/cynthialan/static/js/main.ae620040.chunk.js.map",
+    "runtime-main.js": "/cynthialan/static/js/runtime-main.f03b0ac2.js",
+    "runtime-main.js.map": "/cynthialan/static/js/runtime-main.f03b0ac2.js.map",
+    "static/js/2.0e3e68af.chunk.js": "/cynthialan/static/js/2.0e3e68af.chunk.js",
+    "static/js/2.0e3e68af.chunk.js.map": "/cynthialan/static/js/2.0e3e68af.chunk.js.map",
+    "static/js/3.548a17fc.chunk.js": "/cynthialan/static/js/3.548a17fc.chunk.js",
+    "static/js/3.548a17fc.chunk.js.map": "/cynthialan/static/js/3.548a17fc.chunk.js.map",
+    "index.html": "/cynthialan/index.html",
+    "static/css/main.5ba0c07d.chunk.css.map": "/cynthialan/static/css/main.5ba0c07d.chunk.css.map",
+    "static/js/2.0e3e68af.chunk.js.LICENSE.txt": "/cynthialan/static/js/2.0e3e68af.chunk.js.LICENSE.txt",
+    "static/media/Home.module.css": "/cynthialan/static/media/Roboto-Black.2a428584.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f03b0ac2.js",
+    "static/js/2.0e3e68af.chunk.js",
+    "static/css/main.5ba0c07d.chunk.css",
+    "static/js/main.ae620040.chunk.js"
+  ]
+}
