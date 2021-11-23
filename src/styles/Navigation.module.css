@@ -1,0 +1,32 @@
+.navigation {
+    background-color: gainsboro;
+}
+.navlink {
+    text-align: right;
+    color: black;
+    text-decoration: none;
+}
+.navlink:hover {
+    color: lightcyan;
+}
+/* .navigation {
+    background-color: #EBE3D7;
+  }
+.navLinks {
+    text-align: right;
+  }
+.links {
+    padding-top: 2%;
+    width: 50%;
+    text-align: right;
+    display: inline-block;
+  }
+.link1 {
+    position: relative;
+    color: black;
+    font-family: font1;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 5%;
+    margin-right: 5%;
+} */

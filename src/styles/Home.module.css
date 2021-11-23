@@ -1,0 +1,22 @@
+@font-face {
+    src: url(../fonts/Montaga-Regular.ttf);
+    font-family: font1;
+    font-weight: normal;
+}
+@font-face {
+    src: url(../fonts/Roboto-Black.ttf);
+    font-family: font2;
+    font-weight: normal;
+}
+.major {
+    display: flex;
+    align-items: center;
+}
+.infodescription {
+    font-family: font1;
+    font-size: 16px;
+}
+.infodescription2 {
+    font-family: font1;
+    font-size: 10px;
+}
