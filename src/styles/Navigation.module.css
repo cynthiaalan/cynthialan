@@ -1,14 +1,25 @@
 .navigation {
-    background-color: gainsboro;
+    background-color: rgb(202, 179, 153);
+}
+.navbar {
+  display: inline-block;
 }
 .navlink {
-    text-align: right;
     color: black;
     text-decoration: none;
+    position: relative;
+    margin: 15px;
+}
+.navlinks {
+  display: inline-block;
+  width: 100%;
+  margin: 10%;
 }
 .navlink:hover {
-    color: lightcyan;
+    color: rgb(231, 214, 189);
+    text-decoration: none;
 }
+
 /* .navigation {
     background-color: #EBE3D7;
   }

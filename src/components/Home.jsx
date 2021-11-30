@@ -1,18 +1,17 @@
 import React from "react";
 import styles from "../styles/Home.module.css"
+import linkedin from "../images/linkedin.jpg"
 
 function Home() {
   return (
     <div className="home">
       <div className={styles.major}>
       <div className={styles.right}>
-            <img
+          <img
               class={styles.linkedin}
-              src="images/linkedin.jpg"
+              src={linkedin}
               alt=""
-              width="70%"
-              height ="100%"
-            />
+          />
           </div>
             <div className={styles.left}>
             <h1 class={styles.infodescription}>CYNTHIA LAN</h1>
