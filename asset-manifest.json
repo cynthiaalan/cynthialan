@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cynthialan/static/css/main.c4ae320d.chunk.css",
-    "main.js": "/cynthialan/static/js/main.b4cede7c.chunk.js",
-    "main.js.map": "/cynthialan/static/js/main.b4cede7c.chunk.js.map",
+    "main.css": "/cynthialan/static/css/main.6ab2de28.chunk.css",
+    "main.js": "/cynthialan/static/js/main.95c14de1.chunk.js",
+    "main.js.map": "/cynthialan/static/js/main.95c14de1.chunk.js.map",
     "runtime-main.js": "/cynthialan/static/js/runtime-main.f03b0ac2.js",
     "runtime-main.js.map": "/cynthialan/static/js/runtime-main.f03b0ac2.js.map",
     "static/js/2.4e29022f.chunk.js": "/cynthialan/static/js/2.4e29022f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.548a17fc.chunk.js": "/cynthialan/static/js/3.548a17fc.chunk.js",
     "static/js/3.548a17fc.chunk.js.map": "/cynthialan/static/js/3.548a17fc.chunk.js.map",
     "index.html": "/cynthialan/index.html",
-    "static/css/main.c4ae320d.chunk.css.map": "/cynthialan/static/css/main.c4ae320d.chunk.css.map",
+    "static/css/main.6ab2de28.chunk.css.map": "/cynthialan/static/css/main.6ab2de28.chunk.css.map",
     "static/js/2.4e29022f.chunk.js.LICENSE.txt": "/cynthialan/static/js/2.4e29022f.chunk.js.LICENSE.txt",
     "static/media/Ants.be18776d.jpg": "/cynthialan/static/media/Ants.be18776d.jpg",
     "static/media/BuildABear.5f00553e.jpg": "/cynthialan/static/media/BuildABear.5f00553e.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.f03b0ac2.js",
     "static/js/2.4e29022f.chunk.js",
-    "static/css/main.c4ae320d.chunk.css",
-    "static/js/main.b4cede7c.chunk.js"
+    "static/css/main.6ab2de28.chunk.css",
+    "static/js/main.95c14de1.chunk.js"
   ]
 }
